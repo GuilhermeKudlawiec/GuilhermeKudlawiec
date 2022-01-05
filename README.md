@@ -2,8 +2,8 @@
 
 <div align="right">
   <a href="https://github.com/GuilhermeKudlawiec">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuilhermeKudlawiec&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeKudlawiec&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeKudlawiec&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeKudlawiec&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <div align="center">
@@ -22,3 +22,4 @@
 </div>
 
 ![Snake animation](https://github.com/GuilhermeKudlawiec/GuilhermeKudlawiec/blob/output/github-contribution-grid-snake.svg)
+
